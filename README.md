@@ -1,2 +1,2 @@
-C/C++,Python | Learner          
+🧑‍💻 Learner | C,C++,Python         
 
