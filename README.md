@@ -1,2 +1,2 @@
-🔰 Coding Beginner | C/C++ | Learning 👨‍🎓          
+C/C++,Python | Learner          
 
