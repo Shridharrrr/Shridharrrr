@@ -1,2 +1,2 @@
-🧑‍💻 Learner | C,C++,Python         
+Aspiring Web-Dev💻
 
