@@ -1,2 +1,2 @@
-Aspiring Web-Dev💻
+Web Development & 3D Graphics 🫧
 
