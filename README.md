@@ -1,2 +1,2 @@
-Web Development & 3D Graphics 🫧
+Developent & Design 🌃
 
