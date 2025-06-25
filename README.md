@@ -1,2 +1,2 @@
-Developent & Design 🌃
+Web Dev and AI/ML 🌃
 
