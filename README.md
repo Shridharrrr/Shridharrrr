@@ -1,2 +1,2 @@
-Web Dev and AI/ML🤖
+AI/ML🤖
 
