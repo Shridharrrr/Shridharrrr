@@ -1,2 +1,2 @@
-AI/ML🤖
+Development and Ai
 
