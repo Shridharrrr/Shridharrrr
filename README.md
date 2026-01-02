@@ -21,7 +21,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-111111?style=for-the-badge&logo=python&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 
 ---
